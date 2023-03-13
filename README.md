@@ -21,10 +21,10 @@ In this capstone, you will take the role of a Data Scientist working for a new r
 In this week, I collected the data either through an API or web scraping and then clean and transform it into a usable format.
 
 ## Week 2: Exploratory Data Analysis (EDA)
-In this week, I exploref the data using SQL and Pandas and create visualizations with Matplotlib to gain insights into the data.
+In this week, I explored the data using SQL and Pandas and created visualizations with Matplotlib to gain insights into the data.
 
 ## Week 3: Interactive Visual Analytics and Dashboard
-In this week, I created interactive visualizations using Folium and Plotly, and build a dashboard to present your insights.
+In this week, I created interactive visualizations using Folium and Plotly, and built a dashboard to present your insights.
 
 ## Week 4: Predictive Analysis (Classification)
 In this week, I used machine learning to predict if SpaceX will reuse the first stage of their rockets.
