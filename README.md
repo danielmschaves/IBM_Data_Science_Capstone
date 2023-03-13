@@ -18,16 +18,16 @@ The commercial space age is upon us, with companies making space travel accessib
 In this capstone, you will take the role of a Data Scientist working for a new rocket company, Space Y, that aims to compete with SpaceX. Your job is to determine the price of each launch by gathering information about SpaceX and creating dashboards for your team. Additionally, you will determine if SpaceX will reuse the first stage of their rockets. Instead of relying on rocket science, you will train a machine learning model using public information to predict if SpaceX will reuse the first stage.
 
 ## Week 1: Data Collection and Wrangling
-In this week, you will collect the data either through an API or web scraping and then clean and transform it into a usable format.
+In this week, I collected the data either through an API or web scraping and then clean and transform it into a usable format.
 
 ## Week 2: Exploratory Data Analysis (EDA)
-In this week, you will explore the data using SQL and Pandas and create visualizations with Matplotlib to gain insights into the data.
+In this week, I exploref the data using SQL and Pandas and create visualizations with Matplotlib to gain insights into the data.
 
 ## Week 3: Interactive Visual Analytics and Dashboard
-In this week, you will create interactive visualizations using Folium and Plotly, and build a dashboard to present your insights.
+In this week, I created interactive visualizations using Folium and Plotly, and build a dashboard to present your insights.
 
 ## Week 4: Predictive Analysis (Classification)
-In this week, you will use machine learning to predict if SpaceX will reuse the first stage of their rockets.
+In this week, I used machine learning to predict if SpaceX will reuse the first stage of their rockets.
 
 ## Week 5: Presenting Data-Driven Insights
-In this week, you will present your data-driven insights to stakeholders in the form of a presentation.
+In this week, I presented your data-driven insights to stakeholders in the form of a presentation.
