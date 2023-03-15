@@ -31,3 +31,15 @@ In this week, I used machine learning to predict if SpaceX will reuse the first 
 
 ## Week 5: Presenting Data-Driven Insights
 In this week, I presented your data-driven insights to stakeholders in the form of a presentation.
+
+## Conclusion
+In this project, we aimed to perform exploratory data analysis, determine training labels, preprocess the data, and find the best hyperparameters for various classification algorithms. Our primary objective was to identify the most accurate method for our dataset among Logistic Regression, Support Vector Machines (SVM), Decision Trees, and K-Nearest Neighbors (KNN).
+
+After standardizing the data and splitting it into training and test sets, we tuned hyperparameters for each model and compared their performance on the test dataset. The results are as follows:
+
+- Logistic Regression: 83.33% accuracy
+- Support Vector Machines (SVM): 83.33% accuracy
+- Decision Trees: 88.89% accuracy
+- K-Nearest Neighbors (KNN): 83.33% accuracy
+
+Based on the test data accuracy, the Decision Tree classifier outperformed the other methods with an accuracy of 88.89%. Therefore, we can conclude that the Decision Tree is the most suitable model for this dataset among the tested algorithms.
