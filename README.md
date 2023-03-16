@@ -24,13 +24,13 @@ In this week, I collected the data either through an API or web scraping and the
 In this week, I explored the data using SQL and Pandas and created visualizations with Matplotlib to gain insights into the data.
 
 ## Week 3: Interactive Visual Analytics and Dashboard
-In this week, I created interactive visualizations using Folium and Plotly, and built a dashboard to present your insights.
+In this week, I created interactive visualizations using Folium and Plotly, and built a dashboard to present insights.
 
 ## Week 4: Predictive Analysis (Classification)
 In this week, I used machine learning to predict if SpaceX will reuse the first stage of their rockets.
 
 ## Week 5: Presenting Data-Driven Insights
-In this week, I presented your data-driven insights to stakeholders in the form of a presentation.
+In this week, I presented insights to stakeholders.
 
 ## Conclusion
 In this project, we aimed to perform exploratory data analysis, determine training labels, preprocess the data, and find the best hyperparameters for various classification algorithms. Our primary objective was to identify the most accurate method for our dataset among Logistic Regression, Support Vector Machines (SVM), Decision Trees, and K-Nearest Neighbors (KNN).
